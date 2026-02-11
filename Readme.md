@@ -1,4 +1,4 @@
-# 🔒 Web Security Application 
+# 🔒 Security web application
 
 A web application for testing and learning **web security vulnerabilities**. Built entirely with **PHP**, **Bootstrap**, **CSS**, **JS**, and image assets, this app includes intentional security scenarios for educational purposes such as **SQL Injection**, **XSS**, and more.
 
@@ -49,8 +49,8 @@ A web application for testing and learning **web security vulnerabilities**. Bui
 
 ```bash
 # Clone the repository
-git clone https://github.com/v1p3r75/Web-security-application.git
-cd Web-security-application
+git clone https://github.com/v1p3r75/Security-web-application.git
+cd Security-web-application
 
 # Move files to your web server directory (e.g., htdocs)
 # Start Apache server and open in browser
